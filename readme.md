@@ -1,4 +1,6 @@
-# Fast String Truncated Width
+# Fast String Truncated Width (Fork)
+
+* This fork is only to allow commonJs imports
 
 A fast function for calculating where a string should be truncated, given a width limit and an ellipsis string.
 
